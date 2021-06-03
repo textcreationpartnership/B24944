@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a declaration. James R. Whereas the mutual obligations which lye upon us and our people are indissolvable by any act either of us can commit, and that therefore how undutifully or unjustly soever our people may have behaved themselves towards us, ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B24944</idno><idno type="EEBO-CITATION">99887127</idno>
+  <idno type="VID">190610</idno>
+  <idno type="EEBO-PROQUEST">2264219765</idno>
+  
+            <idno type="STC">Wing J166</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[64]</idno>
+            <idno type="STC">ESTC R227148</idno>
+            <idno type="PROQUEST">ocm99887127</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887127e"/>
+            <note>(EEBO-TCP ; phase 2, no. B24944)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 190610)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C23:1[64])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a declaration. James R. Whereas the mutual obligations which lye upon us and our people are indissolvable by any act either of us can commit, and that therefore how undutifully or unjustly soever our people may have behaved themselves towards us, ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>printed by Andrew Crook and Samuel Helsham assigns of Benjamin Tooke printer to the Kings most excellent Majesty;,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>"Given at our court at Dublin Castle the 28th day of June, 1689. And in the fifth year of our reign."</note>
+                  <note>Arms 186.</note>
+                  <note>Any subjects imprisoned by the authority of the unlawful assembly, calling itself a parliament, will be able to file a suit for damages against any who give warrant for detaining them, and if any are condemned to die, actions will lie against all judges, jurors, clerks, councillors, sheriffs, &amp;c. concerned. No subjects are to pay taxes to the pretended government. Cf. Steele.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">William --  III --  King of England, 1650-1702 --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:190610:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms, circa 1689</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <head>By The KING, A DECLARATION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS the mutual obligations which lye upon Vs and Our people are indissolvable by any act either of Vs can commit, and that therefore how undutifully or unjustly soever Our people may have behaved themselves towards Vs, in<g ref="char:EOLhyphen"/>stigated thereto by the false and calumnious sug<g ref="char:EOLhyphen"/>gestions of Ambitious, Irreligious and Profli<g ref="char:EOLhyphen"/>gate Men; yet We are resolved indispensibly to pursue the obligations of Our side, and to watch all opportunities of relieving Our people from the Tyranny and Oppressions they lye under; of which, with grief, We see daily new instances in Our Kingdoms of <hi>England</hi> and <hi>Scotland,</hi> committed by the Prince of <hi>O<g ref="char:EOLhyphen"/>range</hi> and his Adherents, Vsurpers of Our Royal Right, upon the Persons and Estates of Our Subjects against the known Laws, Customs and Con<g ref="char:EOLhyphen"/>stitutions of these Our Kingdoms. For remedy whereof, We do hereby de<g ref="char:EOLhyphen"/>clare, that as We will protect all such as shall continue firm in their Obedi<g ref="char:EOLhyphen"/>ence to Vs, so We are resolved on the other part to punish with the utmost se<g ref="char:EOLhyphen"/>verity all such as shall be aiding or assisting to the said Vsurpers any man<g ref="char:EOLhyphen"/>ner of way, especially by oppressing Our People: And forasmuch as many of Our good Subjects are by the Vsurped Authority of the P. of <hi>Orange</hi> and his Associates, put in Goals and Prisons, and there detained contrary to Law, pretending dispensation from an unlawful Assembly of rebellious men, impowering themselves to be a Parliament by the Authority of a Head every way as unlawful as the Body. We do therefore declare, that whosoever shall be so detained in Prison by the Authority aforesaid, or any authority flowing from the said Vsurper of his adherents, shall have just suit for dama<g ref="char:EOLhyphen"/>ges, <hi>&amp;c.</hi> against all such persons who shall give order or warrant for seizing, apprehending, Imprisoning or Detaining; and likewise all who shall Seize, Apprehend, Imprison or Detain any of Our good Subjects by the Autho<g ref="char:EOLhyphen"/>rity
+<pb facs="tcp:190610:2"/>
+               <pb facs="tcp:190610:2"/> aforesaid in any way or manner for any cause whatsoever, and if any shall be prosecuted for any pretended crimes or any sentence of death given a<g ref="char:EOLhyphen"/>gainst any person whatsoever, the Relations of such person so Condemned and Executed shall have just cause to prosecute all such Iudges, Iurors, Clerks, Councellors, Sheriffs or others who shall any manner of way be Concerned in the Tryal, Condemnation, or Execution of any person so Tryed, Con<g ref="char:EOLhyphen"/>demned or Executed, and We do further declare all Sentences, Iudgments, Decrees or Decisions given by vertue of the same Authority to be Null and Void.</p>
+            <p>And Whereas the said Vsurper and his pretended Parliament do take up<g ref="char:EOLhyphen"/>on them contrary to all Law, to impose heavy Land Taxes, Sesses, Ex<g ref="char:EOLhyphen"/>cises and other grievous payments upon Our Subjects, and that at a time when they are Excluded from all Trade and Commerce with any Forreign Nation, instead of the Trade of the whole Vniverse, which they might now have enjoyed Vndisturbed, by the want whereof they must be in a short time reduced to poverty and misery, whilst they see their Rivals in Trade, the <hi>Hollanders</hi> enjoy the fruits of their Labours and bravade in their Ports con<g ref="char:EOLhyphen"/>trary to the Act of Navigation as well as the true interest of the Nation; We do therefore think fit to discharge Our Subjects from the payment of a<g ref="char:EOLhyphen"/>ny such Tax, Subsidie, Sess, Excise, or any other imposition whatsoever Imposed, Collected or required by the aforesaid Vsurped Authority, and We do Prohibit any of Our Subjects from Collecting Our Revenue, or any Branch thereof, or any other Tax, Subsidie, Sess, Excise or any other Im<g ref="char:EOLhyphen"/>position, imposed by the Vsurped Authority aforesaid, Declaring hereby, that all such as shall impose, Collect or bring in any part of the same, that they and their Heirs shall be liable to repay it unto Vs, notwithstanding a<g ref="char:EOLhyphen"/>ny Act of Indemnity given or to be given, from which this is always excep<g ref="char:EOLhyphen"/>ted, as likewise We do discharge all such Monies so brought in from be<g ref="char:EOLhyphen"/>ing againe issued out upon any pretence whatsoever without Our special Authority, assuring all such as shall issue out Warrants or Orders to that effect, that they shall be Liable to Vs, for such Summs as shall be contain<g ref="char:EOLhyphen"/>ed in such Orders or Warrants, from which repayment to Vs, no discharge whatsoever shall relieve them except from Vs alone.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Dublin</hi> Castle</hi>
+                  <date>
+                     <hi>the 28th day of <hi>June,</hi>
+                     </hi> 1689. <hi>And in the fifth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <hi>God Save the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings Most Excellent Majesty; 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
